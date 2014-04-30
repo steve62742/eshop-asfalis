@@ -18,4 +18,9 @@ define("DEFAULT_ROLE", "member");
  
 define("SECURE", FALSE);    // FOR DEVELOPMENT ONLY!!!!
 
+$currency = '$';
+$mysqli2 = new mysqli(HOST, USER, PASSWORD,DATABASE);
+
+
+
 ?>
